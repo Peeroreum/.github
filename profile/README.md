@@ -5,5 +5,8 @@
 
 ![헤더](https://github.com/user-attachments/assets/3c76f0e0-9e47-440b-b7ac-260dc04a0b36)
 
-![표지1](https://github.com/user-attachments/assets/e29b509e-5e16-45fd-bf70-947ef6b4a115)
-![표지2](https://github.com/user-attachments/assets/8da7986f-a7f9-4584-a400-bfa585289d68)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e29b509e-5e16-45fd-bf70-947ef6b4a115" width="45%">
+  <img src="https://github.com/user-attachments/assets/8da7986f-a7f9-4584-a400-bfa585289d68" width="45%">
+</p>
+
