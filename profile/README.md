@@ -29,3 +29,26 @@
   <img src="https://github.com/user-attachments/assets/8da7986f-a7f9-4584-a400-bfa585289d68" width="45%">
 </p>
 
+## 기술 스택
+
+**프레임워크 및 라이브러리**
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+
+**상태 관리**
+
+<img src="https://img.shields.io/badge/getX-8A2BE2?style=for-the-badge&logo=getX&logoColor=white">
+
+**데이터베이스, 인증**
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Firebase Authentication-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/jsonwebtokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"> 
+
+**모니터링**
+
+  <img src="https://img.shields.io/badge/Firebase Crashlytics-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Firebase Performance Monitoring-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white"> 
+
+**협업, 설계**
+
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/FIGMA-pink?style=for-the-badge&logo=FIGMA&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white"> 
+
+<br/>
